@@ -1,0 +1,66 @@
+body{
+    background-color:hsl(228, 45%, 44%); ;
+    color: yellowgreen;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3%;
+    font-size: 16px;
+    font-weight: normal; 
+    line-height: 1.6em; 
+    
+ }
+
+
+ .iframe {
+    width: 300px;
+    height: 250px;
+    border: 3px solid hsl(217, 54%, 11%);
+    background: hsl(217, 54%, 11%);
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    margin: auto;
+    padding: 15px 10px;
+  }
+
+  .iframe2 {
+    width: 300px;
+    height: 250px;
+    border: 3px solid hsl(217, 54%, 11%);
+    background: hsl(217, 54%, 11%);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: auto;
+    padding: 15px 10px;
+  }
+
+ .h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    font-size: 100%;
+    font-weight: normal; 
+    line-height: 0.03em;   
+}
+.h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(106, 121, 121);
+    font-size: 100%;
+    font-weight: normal;    
+}
+.ethclo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hsl(178, 100%, 50%);
+    margin-right: 15px;
+    font-size: 100%;
+    font-weight: normal;    
+}
+.line{
+    color: rgba(107, 101, 94, 0.445);
+}
+.Creation{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: hsl(180, 3%, 37%);
+    font-size: 100%;
+    font-weight: normal;    
+}
+
+
